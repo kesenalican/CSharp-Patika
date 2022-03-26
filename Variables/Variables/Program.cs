@@ -27,7 +27,7 @@ namespace Variables
             decimal de = 5; //16 byte
 
             char ch = '2'; //2 byte
-            string str = "deniz berke karayiğit";
+            string str = "Alican Kesen";
 
             bool b1 = true;
             bool b2 = false;
